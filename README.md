@@ -1,7 +1,7 @@
 # 📄 Word → Clean HTML
 
-[UA] Утиліта для перетворення документів Word (.docx) у чистий, семантичний HTML-код без зайвого сміття.  
-[EN] A utility for converting Word documents (.docx) into clean, semantic HTML code without bloat.
+[UA] Проста утиліта на C# для перетворення Word-документів (.docx) у чистий HTML без зайвого сміття.
+[EN] A simple C# utility to convert Word documents (.docx) into clean HTML without redundant bloat.
 
 ---
 
@@ -34,19 +34,15 @@ This tool:
 
 ## 🚀 How to use / Як користуватись
 
-### 1. Install dependency
+### 1. Відкрийте проект у Visual Studio або Visual Studio Code.
 
+### 2. Встановіть NuGet пакет: Install-Package Mammoth
+
+### 3. Запустіть програму, вказавши шлях до файлу:
 ```bash
-pip install mammoth
+word-to-html.exe my_file.docx
 ```
 
-### 2. Run script
-
-```bash
-python convert.py document.docx
-```
-
-### 3. Result
 
 You will get:
 
@@ -67,11 +63,11 @@ output.html
 
 **Description:**
 
-Word to Clean HTML: Convert .docx files to semantic, production-ready HTML without inline styles or Word bloat.
+Word to Clean HTML (C#): Convert .docx files to semantic, production-ready HTML code using .NET and Mammoth. No inline styles, no Word bloat.
 
 **Topics:**
 ```
-word-to-html docx-to-html clean-html web-development python-automation seo-friendly
+csharp, dotnet, word-to-html, docx-to-html, clean-html, mammoth-dotnet, content-migration
 ```
 
 ---
