@@ -52,13 +52,6 @@ output.html
 
 ---
 
-## 🛠 Tech
-
-- Python 3.x  
-- Library: `mammoth`  
-
----
-
 ## 📝 GitHub Setup
 
 **Description:**
